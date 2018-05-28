@@ -1,0 +1,21 @@
+.header-flat {
+  background-color: #C0D7BB;
+  width: 100vw;
+  height: 400px; }
+
+.header-flat-details {
+  background-color: white;
+  border-radius: 5px;
+  border-color: black;
+  border-style: solid;
+  border: 2px; }
+
+.header-flat-owner {
+  margin: 30px;
+  padding: 15px; }
+
+.header-flat-owner h1 {
+  font-size: 25px; }
+
+.header-flat img {
+  width: 80px; }
